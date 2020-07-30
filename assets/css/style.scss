@@ -7,16 +7,13 @@
 
 html {
   scroll-behavior: smooth;
-  // hover color: #0052B3;
+  // hover color: #2C284F;
 }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-.main {
-  // padding: 0 30px;
-}
 
 .info {
   margin-top: 60px;
@@ -102,7 +99,7 @@ body {
   padding: 6px 25px;
 
   &:hover {
-    background-color: #0052B3;
+    background-color: #2C284F;;
     color: #fff;
   }
 }
